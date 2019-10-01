@@ -1,10 +1,5 @@
-Data Visualization with D3 Cookbook Source Code
-===============================================
+## D3 数据可视化实战手册
 
-This is the source code repository for "Data Visualization with D3 Cookbook" authored by me and published by
-Packt Publishing. Check out our [Live Recipe Site](http://nickqizhu.github.io/d3-cookbook/).
 
-License
--------
 
-All source code in this repository are licensed under [MIT license](http://opensource.org/licenses/MIT)
+[参考](http://nickqizhu.github.io/d3-cookbook/).
